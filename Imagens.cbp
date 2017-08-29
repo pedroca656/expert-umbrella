@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Imagens" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug-Linux">
+				<Option output="./Imagens" prefix_auto="1" extension_auto="1" />
+				<Option object_output="./" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option parameters="20" />
+				<Compiler>
+					<Add option="-Wall" />
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add library="GL" />
+					<Add library="GLU" />
+					<Add library="libglut" />
+					<Add library="jpeg" />
+					<Add directory="lib" />
+				</Linker>
+			</Target>
+			<Target title="Debug-MacOS">
+				<Option output="./exemploGLUT" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="/Users/Pinho/Documents/CG/OpenGL/MediaClass/ImageClassSOIL" />
+				<Option object_output="./" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option parameters="20" />
+				<Compiler>
+					<Add option="-Wall" />
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add option="-framework CoreFoundation" />
+					<Add option="-framework GLUT" />
+					<Add option="-framework OpenGL" />
+				</Linker>
+			</Target>
+			<Target title="Debug-Windows">
+				<Option output="./Imagens" prefix_auto="1" extension_auto="1" />
+				<Option object_output="./" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option parameters="20" />
+				<Compiler>
+					<Add option="-Wall" />
+					<Add option="-g" />
+					<Add option="-fexceptions" />
+					<Add option="-Wno-write-strings" />
+					<Add option="-Wno-sign-compare" />
+					<Add option="-Wno-narrowing" />
+					<Add option="-Wno-deprecated-declarations" />
+					<Add option="-Wno-unused-but-set-variable" />
+					<Add option="-DFREEGLUT_STATIC" />
+					<Add directory="GL" />
+				</Compiler>
+				<Linker>
+					<Add library="libFreeGLUT.a" />
+					<Add library="glu32" />
+					<Add library="opengl32" />
+					<Add library="winmm" />
+					<Add library="gdi32" />
+					<Add directory="lib" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-fexceptions" />
+			<Add option="-Wno-write-strings" />
+			<Add option="-Wno-sign-compare" />
+			<Add option="-Wno-narrowing" />
+			<Add option="-Wno-deprecated-declarations" />
+		</Compiler>
+		<Unit filename="ExemploDeManipulacaoDeImagens.cpp" />
+		<Unit filename="ImageClass.cpp" />
+		<Unit filename="ImageClass.h" />
+		<Unit filename="SOIL/SOIL.cpp" />
+		<Unit filename="SOIL/image_DXT.cpp" />
+		<Unit filename="SOIL/image_helper.cpp" />
+		<Unit filename="SOIL/stb_image_aug.cpp" />
+		<Unit filename="TextureClass.cpp" />
+		<Unit filename="TextureClass.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+			<envvars />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

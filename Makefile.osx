@@ -1,0 +1,20 @@
+# Opções do compilador
+CXX = g++
+CXXFLAGS = -g -Wall -FOpenGL -FGLUT
+LDFLAGS  = -framework GLUT -framework OpenGL -ljpeg
+
+FONTES = main.cpp
+OBJETOS = $(FONTES:.cpp=.o)
+
+main: $(OBJETOS)
+	$(CXX) $(OBJETOS) -o main $(LDFLAGS)
+
+clean:
+	-@ rm -f $(OBJETOS) ${OBJAPP1} ${OBJAPP2}
+
+depend:
+	makedepend -- ${CFLAGS} -- ${FONTES}
+
+# DO NOT DELETE
+
+

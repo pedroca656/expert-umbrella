@@ -1,0 +1,638 @@
+# depslib dependency file v1.0
+1432558470 source:/home/PORTOALEGRE/10033421/Desktop/ImageClass/ImageClass/ExemploDeManipulacaoDeImagens.cpp
+	<iostream>
+	<cmath>
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+	"SOIL/SOIL.h"
+	"ImageClass.h"
+
+1439402879 s.h"
+
+1215465208 /home/PORTOALEGRE/10033421/Desktop/ImageClass/ImageClass/SOIL/SOIL.h
+
+1430403083 /home/PORTOALEGRE/10033421/Desktop/ImageClass/ImageClass/ImageClass.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"SOIL/SOIL.h"
+
+1439403046 .h"
+
+1430006026 source:/home/PORTOALEGRE/10033421/Desktop/ImageClass/ImageClass/ImageClass.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+	"ImageClass.h"
+
+1215465208 source:/home/PORTOALEGRE/10033421/Desktop/ImageClass/ImageClass/SOIL/image_DXT.cpp
+	"image_DXT.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1425993830 
+
+1215465208 /home/PORTOALEGRE/10033421/Desktop/ImageClass/ImageClass/SOIL/image_DXT.h
+
+1215465208 source:/home/PORTOALEGRE/10033421/Desktop/ImageClass/ImageClass/SOIL/image_helper.cpp
+	"image_helper.h"
+	<stdlib.h>
+	<math.h>
+
+1215465208 /home/PORTOALEGRE/10033421/Desktop/ImageClass/ImageClass/SOIL/image_helper.h
+
+1425993829 source:/home/PORTOALEGRE/10033421/Desktop/ImageClass/ImageClass/SOIL/SOIL.cpp
+	<windows.h>
+	<wingdi.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<Carbon/Carbon.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	"SOIL.h"
+	"stb_image_aug.h"
+	"image_helper.h"
+	"image_DXT.h"
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
+1215465208 /home/PORTOALEGRE/10033421/Desktop/ImageClass/ImageClass/SOIL/stb_image_aug.h
+	<stdio.h>
+
+1425995044 source:/home/PORTOALEGRE/10033421/Desktop/ImageClass/ImageClass/SOIL/stb_image_aug.cpp
+	"stb_image_aug.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+	"stbi_DDS_aug.h"
+	"stbi_DDS_aug_c.h"
+
+1425995044 aug_c.h"
+
+1215465208 /home/PORTOALEGRE/10033421/Desktop/ImageClass/ImageClass/SOIL/stbi_DDS_aug.h
+
+1215465208 /home/PORTOALEGRE/10033421/Desktop/ImageClass/ImageClass/SOIL/stbi_DDS_aug_c.h
+
+1430403200 source:/home/PORTOALEGRE/10033421/Desktop/ImageClass/ImageClass/TextureClass.cpp
+	"TextureClass.h"
+
+1430403200 ass.h"
+
+1430403197 /home/PORTOALEGRE/10033421/Desktop/ImageClass/ImageClass/TextureClass.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"SOIL/SOIL.h"
+	"ImageClass.h"
+
+1439402949 source:c:\users\10033421\desktop\imageclass\imageclass\exemplodemanipulacaodeimagens.cpp
+	<iostream>
+	<cmath>
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+	"SOIL/SOIL.h"
+	"ImageClass.h"
+
+1298986600 c:\users\10033421\desktop\imageclass\imageclass\gl\glut.h
+	"freeglut.h"
+
+1298986600 h"
+
+1298986600 c:\users\10033421\desktop\imageclass\imageclass\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1298986600 ext.h"
+
+1298986600 c:\users\10033421\desktop\imageclass\imageclass\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1298986600 c:\users\10033421\desktop\imageclass\imageclass\gl\freeglut_ext.h
+
+1215465208 c:\users\10033421\desktop\imageclass\imageclass\soil\soil.h
+
+1439403046 c:\users\10033421\desktop\imageclass\imageclass\imageclass.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"SOIL/SOIL.h"
+
+1430006026 source:c:\users\10033421\desktop\imageclass\imageclass\imageclass.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+	"ImageClass.h"
+
+1215465208 source:c:\users\10033421\desktop\imageclass\imageclass\soil\image_dxt.cpp
+	"image_DXT.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1215465208 c:\users\10033421\desktop\imageclass\imageclass\soil\image_dxt.h
+
+1215465208 source:c:\users\10033421\desktop\imageclass\imageclass\soil\image_helper.cpp
+	"image_helper.h"
+	<stdlib.h>
+	<math.h>
+
+1215465208 c:\users\10033421\desktop\imageclass\imageclass\soil\image_helper.h
+
+1425993830 source:c:\users\10033421\desktop\imageclass\imageclass\soil\soil.cpp
+	<windows.h>
+	<wingdi.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<Carbon/Carbon.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	"SOIL.h"
+	"stb_image_aug.h"
+	"image_helper.h"
+	"image_DXT.h"
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
+1215465208 c:\users\10033421\desktop\imageclass\imageclass\soil\stb_image_aug.h
+	<stdio.h>
+
+1425995044 source:c:\users\10033421\desktop\imageclass\imageclass\soil\stb_image_aug.cpp
+	"stb_image_aug.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+	"stbi_DDS_aug.h"
+	"stbi_DDS_aug_c.h"
+
+1215465208 c:\users\10033421\desktop\imageclass\imageclass\soil\stbi_dds_aug.h
+
+1215465208 c:\users\10033421\desktop\imageclass\imageclass\soil\stbi_dds_aug_c.h
+
+1430403200 source:c:\users\10033421\desktop\imageclass\imageclass\textureclass.cpp
+	"TextureClass.h"
+
+1439402879 c:\users\10033421\desktop\imageclass\imageclass\textureclass.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"SOIL/SOIL.h"
+	"ImageClass.h"
+
+1439404432 source:/Users/Pinho/Documents/Temp/ImageClass/ImageClass/ExemploDeManipulacaoDeImagens.cpp
+	<iostream>
+	<cmath>
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+	"SOIL/SOIL.h"
+	"ImageClass.h"
+
+1215465208 /Users/Pinho/Documents/Temp/ImageClass/ImageClass/SOIL/SOIL.h
+
+1439403048 /Users/Pinho/Documents/Temp/ImageClass/ImageClass/ImageClass.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"SOIL/SOIL.h"
+
+1430006026 source:/Users/Pinho/Documents/Temp/ImageClass/ImageClass/ImageClass.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+	"ImageClass.h"
+
+1215465208 source:/Users/Pinho/Documents/Temp/ImageClass/ImageClass/SOIL/image_DXT.cpp
+	"image_DXT.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1215465208 /Users/Pinho/Documents/Temp/ImageClass/ImageClass/SOIL/image_DXT.h
+
+1215465208 source:/Users/Pinho/Documents/Temp/ImageClass/ImageClass/SOIL/image_helper.cpp
+	"image_helper.h"
+	<stdlib.h>
+	<math.h>
+
+1215465208 /Users/Pinho/Documents/Temp/ImageClass/ImageClass/SOIL/image_helper.h
+
+1425993830 source:/Users/Pinho/Documents/Temp/ImageClass/ImageClass/SOIL/SOIL.cpp
+	<windows.h>
+	<wingdi.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<Carbon/Carbon.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	"SOIL.h"
+	"stb_image_aug.h"
+	"image_helper.h"
+	"image_DXT.h"
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
+1215465208 /Users/Pinho/Documents/Temp/ImageClass/ImageClass/SOIL/stb_image_aug.h
+	<stdio.h>
+
+1425995044 source:/Users/Pinho/Documents/Temp/ImageClass/ImageClass/SOIL/stb_image_aug.cpp
+	"stb_image_aug.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+	"stbi_DDS_aug.h"
+	"stbi_DDS_aug_c.h"
+
+1215465208 /Users/Pinho/Documents/Temp/ImageClass/ImageClass/SOIL/stbi_DDS_aug.h
+
+1215465208 /Users/Pinho/Documents/Temp/ImageClass/ImageClass/SOIL/stbi_DDS_aug_c.h
+
+1430403200 source:/Users/Pinho/Documents/Temp/ImageClass/ImageClass/TextureClass.cpp
+	"TextureClass.h"
+
+1439402880 /Users/Pinho/Documents/Temp/ImageClass/ImageClass/TextureClass.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"SOIL/SOIL.h"
+	"ImageClass.h"
+
+1439404698 source:d:\pinho\imageclass\imageclass\exemplodemanipulacaodeimagens.cpp
+	<iostream>
+	<cmath>
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+	"SOIL/SOIL.h"
+	"ImageClass.h"
+
+1298986600 d:\pinho\imageclass\imageclass\gl\glut.h
+	"freeglut.h"
+
+1298986600 d:\pinho\imageclass\imageclass\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1298986600 d:\pinho\imageclass\imageclass\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1298986600 d:\pinho\imageclass\imageclass\gl\freeglut_ext.h
+
+1215465208 d:\pinho\imageclass\imageclass\soil\soil.h
+
+1439403048 d:\pinho\imageclass\imageclass\imageclass.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"SOIL/SOIL.h"
+
+1430006026 source:d:\pinho\imageclass\imageclass\imageclass.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+	"ImageClass.h"
+
+1215465208 source:d:\pinho\imageclass\imageclass\soil\image_dxt.cpp
+	"image_DXT.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1215465208 d:\pinho\imageclass\imageclass\soil\image_dxt.h
+
+1215465208 source:d:\pinho\imageclass\imageclass\soil\image_helper.cpp
+	"image_helper.h"
+	<stdlib.h>
+	<math.h>
+
+1215465208 d:\pinho\imageclass\imageclass\soil\image_helper.h
+
+1425993830 source:d:\pinho\imageclass\imageclass\soil\soil.cpp
+	<windows.h>
+	<wingdi.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<Carbon/Carbon.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	"SOIL.h"
+	"stb_image_aug.h"
+	"image_helper.h"
+	"image_DXT.h"
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
+1215465208 d:\pinho\imageclass\imageclass\soil\stb_image_aug.h
+	<stdio.h>
+
+1425995044 source:d:\pinho\imageclass\imageclass\soil\stb_image_aug.cpp
+	"stb_image_aug.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+	"stbi_DDS_aug.h"
+	"stbi_DDS_aug_c.h"
+
+1215465208 d:\pinho\imageclass\imageclass\soil\stbi_dds_aug.h
+
+1215465208 d:\pinho\imageclass\imageclass\soil\stbi_dds_aug_c.h
+
+1430403200 source:d:\pinho\imageclass\imageclass\textureclass.cpp
+	"TextureClass.h"
+
+1439402880 d:\pinho\imageclass\imageclass\textureclass.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"SOIL/SOIL.h"
+	"ImageClass.h"
+
+1504041405 source:c:\users\12205010\downloads\imageclass\exemplodemanipulacaodeimagens.cpp
+	<iostream>
+	<cmath>
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+	"SOIL/SOIL.h"
+	"ImageClass.h"
+
+1298986600 c:\users\12205010\downloads\imageclass\gl\glut.h
+	"freeglut.h"
+
+1298986600 c:\users\12205010\downloads\imageclass\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1298986600 c:\users\12205010\downloads\imageclass\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1298986600 c:\users\12205010\downloads\imageclass\gl\freeglut_ext.h
+
+1215465208 c:\users\12205010\downloads\imageclass\soil\soil.h
+
+1439403048 c:\users\12205010\downloads\imageclass\imageclass.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"SOIL/SOIL.h"
+
+1430006026 source:c:\users\12205010\downloads\imageclass\imageclass.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+	"ImageClass.h"
+
+1215465208 source:c:\users\12205010\downloads\imageclass\soil\image_dxt.cpp
+	"image_DXT.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1215465208 c:\users\12205010\downloads\imageclass\soil\image_dxt.h
+
+1215465208 source:c:\users\12205010\downloads\imageclass\soil\image_helper.cpp
+	"image_helper.h"
+	<stdlib.h>
+	<math.h>
+
+1215465208 c:\users\12205010\downloads\imageclass\soil\image_helper.h
+
+1425993830 source:c:\users\12205010\downloads\imageclass\soil\soil.cpp
+	<windows.h>
+	<wingdi.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<Carbon/Carbon.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	"SOIL.h"
+	"stb_image_aug.h"
+	"image_helper.h"
+	"image_DXT.h"
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
+1215465208 c:\users\12205010\downloads\imageclass\soil\stb_image_aug.h
+	<stdio.h>
+
+1425995044 source:c:\users\12205010\downloads\imageclass\soil\stb_image_aug.cpp
+	"stb_image_aug.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+	"stbi_DDS_aug.h"
+	"stbi_DDS_aug_c.h"
+
+1215465208 c:\users\12205010\downloads\imageclass\soil\stbi_dds_aug.h
+
+1215465208 c:\users\12205010\downloads\imageclass\soil\stbi_dds_aug_c.h
+
+1430403200 source:c:\users\12205010\downloads\imageclass\textureclass.cpp
+	"TextureClass.h"
+
+1439402880 c:\users\12205010\downloads\imageclass\textureclass.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"SOIL/SOIL.h"
+	"ImageClass.h"
+
+1430006026 source:c:\users\12205010\desktop\expert-umbrella\imageclass.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+	"ImageClass.h"
+
+1298986600 c:\users\12205010\desktop\expert-umbrella\gl\glut.h
+	"freeglut.h"
+
+1298986600 c:\users\12205010\desktop\expert-umbrella\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1298986600 c:\users\12205010\desktop\expert-umbrella\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1298986600 c:\users\12205010\desktop\expert-umbrella\gl\freeglut_ext.h
+
+1439403048 c:\users\12205010\desktop\expert-umbrella\imageclass.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"SOIL/SOIL.h"
+
+1215465208 c:\users\12205010\desktop\expert-umbrella\soil\soil.h
+
+1215465208 source:c:\users\12205010\desktop\expert-umbrella\soil\image_dxt.cpp
+	"image_DXT.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1215465208 c:\users\12205010\desktop\expert-umbrella\soil\image_dxt.h
+
+1215465208 source:c:\users\12205010\desktop\expert-umbrella\soil\image_helper.cpp
+	"image_helper.h"
+	<stdlib.h>
+	<math.h>
+
+1215465208 c:\users\12205010\desktop\expert-umbrella\soil\image_helper.h
+
+1425993830 source:c:\users\12205010\desktop\expert-umbrella\soil\soil.cpp
+	<windows.h>
+	<wingdi.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<Carbon/Carbon.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	"SOIL.h"
+	"stb_image_aug.h"
+	"image_helper.h"
+	"image_DXT.h"
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
+1215465208 c:\users\12205010\desktop\expert-umbrella\soil\stb_image_aug.h
+	<stdio.h>
+
+1425995044 source:c:\users\12205010\desktop\expert-umbrella\soil\stb_image_aug.cpp
+	"stb_image_aug.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+	"stbi_DDS_aug.h"
+	"stbi_DDS_aug_c.h"
+
+1215465208 c:\users\12205010\desktop\expert-umbrella\soil\stbi_dds_aug.h
+
+1215465208 c:\users\12205010\desktop\expert-umbrella\soil\stbi_dds_aug_c.h
+
+1430403200 source:c:\users\12205010\desktop\expert-umbrella\textureclass.cpp
+	"TextureClass.h"
+
+1439402880 c:\users\12205010\desktop\expert-umbrella\textureclass.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"SOIL/SOIL.h"
+	"ImageClass.h"
+
